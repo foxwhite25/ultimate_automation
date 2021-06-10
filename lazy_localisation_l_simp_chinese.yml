@@ -119,7 +119,6 @@ l_simp_chinese:
  lazy_config_events.12.o:0 "§从最高总部降级至哨站§!"
  lazy_config_events.12.p:0 "§G升级标记的防御平台§!"
 
- 
  lazy_config_events.x.e:0 "§G启用§!"
  lazy_config_events.x.d:0 "§R停用§!"
  lazy_config_events.x.b:0 "返回"
@@ -137,7 +136,8 @@ l_simp_chinese:
  lazy_config_events.1.custom_tooltip.k:0 "自动建造一艘殖民船，并以选定的宜居性或更高的宜居性（默认值：70%）殖民最近的行星。"
  lazy_config_events.1.custom_tooltip.l:0 "使用原版巨型结构成本自动升级巨型结构。"
  lazy_config_events.1.custom_tooltip.m:0 "使用原版环境改造时间、成本和成本降低自动环境改造行星。"
- lazy_config_events.1.custom_tooltip.n:0 "关闭除自动探索之外的所有自动化。"
+  lazy_config_events.1.custom_tooltip.n:0 "自动管理所有的星际基地和防御平台（根据原版星际基地成本减免和静态估计防御平台成本）。"
+ lazy_config_events.1.custom_tooltip.o:0 "关闭除自动探索之外的所有自动化。"
 
  decision_lazy_planet:0 "自动行星专业化"
  decision_lazy_planet_desc:0 "自动给予行星类型，根据选择的选项自动建造建筑物和区域。"
